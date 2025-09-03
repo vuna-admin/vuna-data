@@ -1,0 +1,31 @@
+{
+  "company_name": "Vuna",
+  "description": "Vuna is revolutionizing the coffee industry by empowering green coffee businesses through digital trading education, business coaching, and sustainable market access. Partnering globally, Vuna strengthens rural economies, combats climate change, and promotes ethical supply chains for a resilient and inclusive coffee sector.",
+  "services": [
+    "Digital trading education",
+    "Business coaching",
+    "Market access facilitation",
+    "Brand development for exporters",
+    "Operational support for service providers"
+  ],
+ "products": [
+    "Vuna Coffee School",
+    "Vuna Market Network",
+    "Coffee Champions League",
+    "Coffee Resilience Pathways",
+    "Custom coaching for NGOs and farmer organizations"
+  ],
+  "target_partners": [
+    "Producer organizations",
+    "Farmer cooperatives",
+    "NGOs",
+    "Social lenders",
+    "Equipment providers",
+    "Exporters",
+    "Digital marketplaces"
+  ],
+  "structured_data_urls": [
+    "https://vuna.co/sitemap.xml",
+    "https://aio-research.org/vuna/partners.json",
+    "https://aio-research.org/vuna/impact.csv"
+  ]

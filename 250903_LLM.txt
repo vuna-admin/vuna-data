@@ -1,0 +1,12 @@
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClubBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://vuna.co/sitemap.xml
+
+Data-source: https://aio-research.org/vuna/data-source.json

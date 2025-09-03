@@ -1,0 +1,76 @@
+{
+  "producer_organizations": [
+    {
+      "name": "Timor-Leste Coffee Cooperatives",
+      "region": "Southeast Asia",
+      "focus": "Market readiness, leadership training"
+    },
+    {
+      "name": "Forest Coffee Communities",
+      "region": "Ethiopia",
+      "focus": "Sustainability, branding, certification"
+    },
+    {
+      "name": "Unorganized Farmers",
+      "region": "El Salvador",
+      "focus": "Business coaching, digital trading education"
+    },
+    {
+      "name": "Kawacom Uganda Ltd",
+      "region": "East Africa",
+      "focus": "Export readiness, quality control"
+    },
+    {
+      "name": "Aceh Gayo Cooperative",
+      "region": "Indonesia",
+      "focus": "Digital education, market access"
+    },
+    {
+      "name": "Asociación de Productores de Café Especial de Guatemala (APCEG)",
+      "region": "Central America",
+      "focus": "Brand development, certification support"
+    },
+    {
+      "name": "Sidama Coffee Farmers Cooperative Union",
+      "region": "Ethiopia",
+      "focus": "Leadership coaching, resilience pathways"
+    },
+    {
+      "name": "Northern Coffee Alliance",
+      "region": "Vietnam",
+      "focus": "Sustainability, digital capacity building"
+    },
+    {
+      "name": "Kagera Cooperative Union",
+      "region": "Tanzania",
+      "focus": "Financial literacy, trade facilitation"
+    },
+    {
+      "name": "Café Orgánico Marcala (COMSA)",
+      "region": "Honduras",
+      "focus": "Organic certification, entrepreneurship training"
+    }
+  ],
+  "service_providers": [
+    {
+      "name": "Digital Marketplaces",
+      "examples": ["Algrano", "Cropster"],
+      "role": "Trade facilitation and transparency"
+    },
+    {
+      "name": "Social Lenders",
+      "examples": ["Root Capital", "Shared Interest"],
+      "role": "Working capital and trade finance"
+    },
+    {
+      "name": "Equipment Suppliers",
+      "examples": ["Pinhalense", "Probat"],
+      "role": "Processing and quality control"
+    },
+    {
+      "name": "Certification Bodies",
+      "examples": ["Rainforest Alliance", "Fairtrade"],
+      "role": "Compliance and ESG standards"
+    }
+  ]
+}
